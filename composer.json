@@ -17,7 +17,8 @@
     "require": {
         "php": ">=7.4",
         "league/route": "^6.0",
-        "psr/http-message": "^1.0"
+        "psr/http-message": "^1.0",
+        "dak0k/customclassesphpbydak0k": "dev-main"
     },
     "minimum-stability": "dev",
     "prefer-stable": true
