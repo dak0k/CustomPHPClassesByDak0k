@@ -1,7 +1,11 @@
 <?php
 
 namespace src\Classes;
-
+/*
+--------------------------------------------------------------------------------
+---             Class created by dak0k "Adaibekov Darkhan"                   ---
+--------------------------------------------------------------------------------
+*/
 /**
  * The <span style="color:green">ArrayList</span> class  is a custom class that emulates a basic list or array-like behavior. It allows you to add and remove items from a list. Here's what the class does:
  *<br><br>
