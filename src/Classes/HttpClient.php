@@ -17,7 +17,7 @@ class HttpClient {
         $response = file_get_contents($url);
         return $response;
     }
-
+    
     /**
      * @param mixed $url
      * @param mixed $data
