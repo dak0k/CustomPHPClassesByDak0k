@@ -4,6 +4,7 @@ namespace src\Classes;
 /*
 --------------------------------------------------------------------------------
 ---             Class created by dak0k "Adaibekov Darkhan"                   ---
+---        Github link "https://github.com/dak0k/CustomPHPClassesByDak0k"    ---
 --------------------------------------------------------------------------------
 */
 /**
